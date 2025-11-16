@@ -15,6 +15,12 @@ The core idea presented in the report is to take a pixel in one image, estimate 
 
 ---
 
+## Notebook Demo
+You can view the full proof-of-concept notebook here:  
+➡️ **[Camera_simulations.ipynb](Camera_simulations.ipynb)**  
+
+---
+
 ## Key Components
 
 The project covers:
